@@ -10,7 +10,7 @@ function duplicateEncode(word) {
 }
 
 /* **
-// Altrenative Solution:
+// Alternative Solution:
 
 function duplicateEncode(word){
   return word
